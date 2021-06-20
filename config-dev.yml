@@ -1,5 +1,5 @@
 config:
-  info: "master branch,springcloud-config/config-dev.yml version=99"
+  info: "master branch,springcloud-config/config-dev.yml version=1"
 spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource            # 当前数据源操作类型
